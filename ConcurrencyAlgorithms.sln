@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducerConsumerProblem", "ProducerConsumerProblem\ProducerConsumerProblem.csproj", "{9119027D-2BA0-49B9-9EF2-3EEB6424C544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiningPhilosophersProblem", "DiningPhilosophersProblem\DiningPhilosophersProblem.csproj", "{9D63EEEB-3A5F-45CB-BBEC-B07C429A3FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9119027D-2BA0-49B9-9EF2-3EEB6424C544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9119027D-2BA0-49B9-9EF2-3EEB6424C544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9119027D-2BA0-49B9-9EF2-3EEB6424C544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9119027D-2BA0-49B9-9EF2-3EEB6424C544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D63EEEB-3A5F-45CB-BBEC-B07C429A3FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D63EEEB-3A5F-45CB-BBEC-B07C429A3FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D63EEEB-3A5F-45CB-BBEC-B07C429A3FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D63EEEB-3A5F-45CB-BBEC-B07C429A3FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEFADB00-E506-433B-8CEE-CFC223B49FC6}
+	EndGlobalSection
+EndGlobal

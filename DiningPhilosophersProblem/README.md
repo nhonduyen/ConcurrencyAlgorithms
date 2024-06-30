@@ -1,0 +1,3 @@
+﻿The Dining Philosophers problem is another classic synchronization problem. It involves five philosophers sitting around a table, each alternating between thinking and eating. 
+There are five chopsticks, one between each pair of philosophers. A philosopher must pick up both adjacent chopsticks to eat, and this requires careful synchronization 
+to avoid deadlock and ensure that no philosopher starves.

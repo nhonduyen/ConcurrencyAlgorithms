@@ -1,0 +1,3 @@
+﻿The Producer-Consumer problem is a classic synchronization problem in computer science that illustrates the need for coordinating multiple threads sharing a common, finite-size buffer. 
+The producer generates data and puts it into the buffer, and the consumer takes data from the buffer. 
+Proper synchronization is necessary to ensure that the producer does not add data when the buffer is full and the consumer does not remove data when the buffer is empty.
